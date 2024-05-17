@@ -24,3 +24,5 @@ async function generateLogo() {
     fs.writeFileSync('logo.svg');
     console.log('Generated logo.svg');
 }
+
+generateLogo();
