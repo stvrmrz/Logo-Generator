@@ -15,6 +15,12 @@ async function generateLogo() {
         name: 'textColor',
         message: 'Enter the text color (keyword or hexadecimal):',
       },
+      {
+        type: 'list',
+        name: 'shape',
+        message: 'Choose a shape for the logo:',
+        choices: ['circle', 'triangle', 'square'],
+      },
     ]);
     
     let shape;
