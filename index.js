@@ -10,6 +10,11 @@ async function generateLogo() {
         message: 'Enter up to three characters for the logo text:',
         validate: input => input.length <= 3 || 'Text must be up to 3 characters.',
       },
+      {
+        type: 'input',
+        name: 'textColor',
+        message: 'Enter the text color (keyword or hexadecimal):',
+      },
     ]);
     
     let shape;
