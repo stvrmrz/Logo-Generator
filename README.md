@@ -56,7 +56,7 @@ reccomended to install Visual Studio code as well.
 <!-- USAGE EXAMPLES -->
 ## Link to Deployed Application
 
-_Here is a link to my [Deployed Weather Dashboard](https://stvrmrz.github.io/Challenge-06-Weather-Dashboard/)_
+_Here is a link to my [Walkthrough Video](https://app.screencastify.com/v3/watch/Pug4XcQyI0R5w066SzXE)_
 
 <!-- ROADMAP -->
 ## Roadmap
